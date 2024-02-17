@@ -1,0 +1,1 @@
+console.log("Hi this is script.js in public");
